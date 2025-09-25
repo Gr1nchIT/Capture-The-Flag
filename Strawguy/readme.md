@@ -8,7 +8,9 @@
 ## ℹ️ General Information
 - This is a Capture-the-Flag activity (CTF). <br>
 - Level of technicality: **Low**, _no specific tools needed other the basics (e.g. a PC)_ <br>
-- Requirements: a PC, internet, any text editors, 7zip <br>
+- Requirements:a PC, internet, text editor, 7zip or similar (windows default might not work in this case)
+
+<br>
 
 ## ⚙️ Instructions
 - Download the CTF.zip file and extract the content
@@ -19,6 +21,8 @@
 - Copy the flag, **exactly as in the flag file**, and share it with the creator
 - ***ONLY THE FIRST*** who shares the flag win the prize
 - basic rules: No cheating, fair play, respect for other participants
+
+<br>
 
 ## 🔎 Updates
 In this section I will be sharing hints for each stage. Stay tuned!
