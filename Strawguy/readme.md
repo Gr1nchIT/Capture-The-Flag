@@ -8,7 +8,8 @@
 ## ℹ️ General Information
 - This is a Capture-the-Flag activity (CTF). <br>
 - Level of technicality: **Low**, _no specific tools needed other the basics (e.g. a PC)_ <br>
-- Requirements:a PC, internet, text editor, 7zip or similar (windows default might not work in this case)
+- Requirements: a PC, internet, text editor, 7zip or similar (windows default might not work in this case)
+- Disclaimer: this activity is not sponsored by any vendor or third party
 
 <br>
 
