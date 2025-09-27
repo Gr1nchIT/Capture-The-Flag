@@ -5,6 +5,14 @@
   <img height="300" src="https://github.com/Gr1nchIT/Capture-The-Flag/blob/main/Strawguy/img/the_Strawguy_CTF_2_pic.png"/>
 </p>
 
+
+***
+
+> [!IMPORTANT]
+> ***The CTF file will be made available on Oct 1st at 22:00UTC***
+
+***
+
 ## ℹ️ General Information
 - This is a Capture-the-Flag activity (CTF). <br>
 - Level of technicality: **Low**, _no specific tools needed other the basics (e.g. a PC)_ <br>
