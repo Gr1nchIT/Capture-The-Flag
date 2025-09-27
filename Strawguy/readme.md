@@ -9,7 +9,7 @@
 ***
 
 > [!IMPORTANT]
-> ***The CTF file will be made available on Oct 1st at 22:00UTC***
+> ***The CTF file will be made available on Oct 1st at 00:00UTC***
 
 ***
 
