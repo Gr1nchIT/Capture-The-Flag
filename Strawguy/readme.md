@@ -22,12 +22,12 @@
 <br>
 
 ## ⚙️ Instructions
-- Download the CTF.zip file and extract the content
+- Download the CTF.zip file and extract the content (no password needed)
 - CTF consists of 3 stages
 - Read the instructions/hints of each stage
 - Find the password to unzip the stage and move to the next
 - Last stage has the flag
-- Copy the flag, **exactly as in the flag file**, and share it with the creator
+- Copy the flag, **exactly as in the flag file**, and share it under the original LinkedIn post (mention the creator for faster response)
 - ***ONLY THE FIRST*** who shares the flag win the prize
 - basic rules: No cheating, fair play, respect for other participants
 
