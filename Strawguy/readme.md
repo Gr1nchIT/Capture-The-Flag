@@ -7,11 +7,7 @@
 
 
 ***
-
-> [!IMPORTANT]
-> ***The CTF file will be made available on Oct 1st at 00:00UTC***
-
-***
+<br>
 
 ## ℹ️ General Information
 - This is a Capture-the-Flag activity (CTF). <br>
@@ -35,6 +31,8 @@
 
 ## 🔎 Updates
 In this section I will be sharing hints for each stage. Stay tuned!
+
+>💡 Do you know all the founders of security training platforms? They have done an incredible job! Btw, spaces are not very popular in passwords.
 
 
 
