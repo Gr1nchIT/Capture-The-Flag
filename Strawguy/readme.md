@@ -32,7 +32,11 @@
 ## 🔎 Updates
 In this section I will be sharing hints for each stage. Stay tuned!
 
->💡 Do you know all the founders of security training platforms? They have done an incredible job! Btw, spaces are not very popular in passwords.
+>💡 Do you know all the founders of security training platforms? They have done an incredible job! Btw, spaces are not very popular in passwords. __-Stage1__
+
+>💡 "Potato, potahto" or P0tato, Pot@to. When it comes to strong passwords, one can be creative. Even First and Last name can be turned to a password. Just look: ***Fir$tnam3La$tnam3*** Got it? ___-Stage1___
+
+>💡 Answer format: _Wwwwwwwwww-DDDD_ ___-Stage2___
 
 
 
