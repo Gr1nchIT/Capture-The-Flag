@@ -38,6 +38,8 @@ In this section I will be sharing hints for each stage. Stay tuned!
 
 >💡 Answer format: _Wwwwwwwwww-DDDD_ ___-Stage2___
 
+>💡 It is time to look for a Cyber Mentor. He will definitely help you with this! ___-Stage1___
+
 
 
 
