@@ -40,6 +40,8 @@ In this section I will be sharing hints for each stage. Stay tuned!
 
 >💡 It is time to look for a Cyber Mentor. He will definitely help you with this! ___-Stage1___
 
+>💡 You are looking for a computer. A very old one. Very very old ! ___-Stage2___
+
 
 
 
