@@ -42,6 +42,10 @@ In this section I will be sharing hints for each stage. Stay tuned!
 
 >💡 You are looking for a computer. A very old one. Very very old ! ___-Stage2___
 
+>💡 Did you know computer are used in astronomy? This one did! ___-Stage2___
+
+>💡 Julius Caesar was not only a general, politician, and statesman, but a great cryptographer too. Amazing, right? ___-Stage3___
+
 
 
 
