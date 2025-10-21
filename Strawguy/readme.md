@@ -46,6 +46,8 @@ In this section I will be sharing hints for each stage. Stay tuned!
 
 >💡 Julius Caesar was not only a general, politician, and statesman, but a great cryptographer too. Amazing, right? ___-Stage3___
 
+>💡 Password can be hidden in spaces. Look everywhere! ___-Stage3___
+
 
 
 
